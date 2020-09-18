@@ -212,7 +212,7 @@ input, button, select, textarea {
 
 /* Getting Started (use your actual category names here in the comment to make it easier) */
 #category-29 {
-	background-image: url(https://cdn.shopify.com/s/files/1/0084/2049/1364/files/bookmark.png?v=1600447245);
+	background-image: url(https://raw.githubusercontent.com/dhaaniilo/testefddd/3772a6eb47262014c926c855bc76da48350b401e/bookmark.png);
 }
 
 /* Setup Users */
